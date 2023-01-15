@@ -9,3 +9,5 @@ def hello_world():
 app.route('/test')
 def test():
     return "<p>Testing new route endpoint</p>"
+
+print("Git testing")
